@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--eds-site-two--lalitvasoliya23.aem.live/
-- After: https://<branch>--eds-site-two--lalitvasoliya23.aem.live/
+- After: https://dev--eds-site-two--lalitvasoliya23.aem.live/
