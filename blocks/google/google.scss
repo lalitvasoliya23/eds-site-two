@@ -1,0 +1,9 @@
+.block.google{
+    background-color: red;
+    &.background-green{
+        background-color: green;
+    }
+    &.text-center{
+        text-align: center;
+    }
+}

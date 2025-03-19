@@ -1,0 +1,26 @@
+@import url('./swiper-bundle.min.css');
+
+.swiper{
+    width: 600px;
+    height: 300px;
+
+    img{
+        width: 400px; 
+        height: 200px;
+
+    }
+}
+.block.carousel.text-center{
+    .swiper-wrapper{
+        .swiper-slide{
+            p{
+                align-items: end;
+                
+            }
+           
+        }
+       
+    }
+    
+
+}

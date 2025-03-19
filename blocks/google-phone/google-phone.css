@@ -1,0 +1,7 @@
+.block.google-phone {
+  background-color: red;
+}
+
+.block.google-phone.background-blue {
+  background-color: blue;
+}
